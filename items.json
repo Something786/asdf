@@ -1,0 +1,29 @@
+{
+  "stick" : {
+    "name": "Stick",
+    "StackableTo": 1,
+    "isWeapon": 1,
+    "damage": 1,
+    "durability": 5
+  },
+  "money" : {
+    "name": "Money",
+    "StackableTo": 100,
+    "isWeapon": 0,
+    "damage": 0.1,
+    "durability": 10000
+  },
+  "sword" : {
+    "name": "Sword",
+    "StackableTo": 1,
+    "isWeapon": 0,
+    "damage": 5,
+    "durability": 250
+  },
+  "yourmom" : {
+    "name": "urmom",
+    "StackableTo": 0,
+    "isWeapon": 1,
+    "durability": 0
+  }
+}
