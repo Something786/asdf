@@ -1,6 +1,6 @@
 import json
 import math
-from narritivecommands import *
+from narritivecommands import text, options
 
 
 
